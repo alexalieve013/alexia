@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Recado</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+      margin: 0;
+      background-color: #ffffff;
+    }
+
+    h1, h2 {
+      font-weight: normal;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 12px auto;
+      border-radius: 12px;
+    }
+
+    p {
+      max-width: 720px;
+      margin: 10px auto;
+      line-height: 1.5;
+      font-size: 16px;
+    }
+
+    video {
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      margin-top: 12px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Alexia Rosa ♡</h1>
+
+  <h2>Oi, te desejo todaaaa a felicidade do mundo...</h2>
+  <h2>Que você conquiste tudo o que me disse um dia</h2>
+
+  <img
+    src="https://img.freepik.com/vetores-gratis/bela-casa_24877-50819.jpg"
+    alt="Casa"
+    referrerpolicy="no-referrer"
+  />
+
+  <img
+    src="https://images.tcdn.com.br/img/img_prod/1263757/90_scooter_eletrica_x11_3000w_moto_chefe_33_1_15b0826047a8efe8b6e7df3d1d8fcb9e.jpg"
+    alt="Scooter elétrica X11 3000W"
+    referrerpolicy="no-referrer"
+  />
+
+  <h2>Eu poderia ficar horas digitando e criar um site topppp...</h2>
+  <h2>Mas eu acredito que vc já saiba tudo o que eu iria falar</h2>
+  <h2>Fica com Deus, tudo de bom para você, Benjamim e Bernardo</h2>
+
+  <h2>Leia as letras miúdas</h2>
+
+  <p>
+    Eu não estou desistindo de você, apenas vou respeitar suas decisões.
+    Sempre estarei aqui para o que precisar.
+  </p>
+
+  <p>Eu amo vocês 3 infinitamente.</p>
+
+  <h2>Finalizo com essa música</h2>
+
+  <video controls playsinline preload="metadata">
+    <source
+      src="https://res.cloudinary.com/dlimo9yfr/video/upload/v1770687568/Incondicional_-_Luan_Santana_Videoclipe_OFICIAL_-_Luan_Santana_720p_h264_youtube_cpffjw.mp4"
+      type="video/mp4"
+    />
+    Seu navegador não suporta vídeo.
+  </video>
+
+</body>
+</html>
